@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+</head>
+<style>
+    li {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 21.23px;
+        color: purple;
+        font-weight: bolder;
+    }
+    
+    a {
+        text-decoration: none;
+        color: sandybrown;
+    }
+</style>
+
+<body>
+    <ul>
+        <li>
+            <a href="http:www.baidu.com" target="_blanck">七里香</a></li>
+        <li>晴天</li>
+        <li>花海</li>
+        <li>东风破</li>
+        <li>以父之名</li>
+        <li>三年二班</li>
+    </ul>
+</body>
+
+</html>
